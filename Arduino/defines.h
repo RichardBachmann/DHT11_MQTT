@@ -18,7 +18,7 @@
   #warning Using WiFi for Portenta_H7
 #endif
 
-#define WIFI_SSID         "TP-LINK_87C91E"
+#define WIFI_SSID         ""
 #define WIFI_PASSWORD     ""
 
 int status = WL_IDLE_STATUS;
