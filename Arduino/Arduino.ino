@@ -111,7 +111,6 @@ void setup()
 
 void loop()
 {
-  // check kas siin töötab sensori andmete lugemine
   
   // Read the temperature and humidity
   float humidity = dht.readHumidity();
